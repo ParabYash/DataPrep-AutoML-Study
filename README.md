@@ -14,32 +14,36 @@ The repository is organized into the following sections:
 
 #### Data Preprocessing and Feature Engineering:
 
-- a. Handling missing values.
-- b. Encoding categorical variables.
-- c. Scaling numerical features.
-- d. Creating and selecting features.
+- Handling missing values.
+- Encoding categorical variables.
+- Scaling numerical features.
+- Creating and selecting features.
 
-- Machine Learning Workflows:
+  #### Machine Learning Workflows:
 
-Manual Workflow: Custom preprocessing and feature engineering for Decision Trees and Neural Networks.
-AutoML Workflow: Automated preprocessing and model building using AutoML pipelines.
-Model Evaluation:
+- Manual Workflow: Custom preprocessing and feature engineering for Decision Trees and Neural Networks.
+- AutoML Workflow: Automated preprocessing and model building using AutoML pipelines.
 
-Binary classification metrics: Accuracy, AUC, and confusion matrix.
-Regression metrics: MSE, RMSE, R², and scatter plots (e.g., predicted vs. actual).
-Results and Findings:
+#### Model Evaluation:
 
-Comparison of manual and AutoML workflows.
-Insights into the limitations of AutoML with complex algorithms like Neural Networks.
-Recommendations for combining manual preprocessing with automated pipelines.
-Research Paper and Presentation:
+- Binary classification metrics: Accuracy, AUC, and confusion matrix.
+- Regression metrics: MSE, RMSE, R², and scatter plots (e.g., predicted vs. actual).
 
-Detailed documentation of the project methodologies, findings, and conclusions.
-Data Description
+#### Results and Findings:
+
+- Comparison of manual and AutoML workflows.
+- Insights into the limitations of AutoML with complex algorithms like Neural Networks.
+- Recommendations for combining manual preprocessing with automated pipelines.
+
+### Research Paper:
+
+- Detailed documentation of the project methodologies, findings, and conclusions.
+
+#### Data Description
 The datasets used in this project include synthetic and real-world data, tailored for:
 
-Decision Trees: Binary classification tasks.
-Neural Networks: Regression tasks.
+- Decision Trees: Binary classification tasks.
+- Neural Networks: Regression tasks.
 The datasets are processed to demonstrate the application of various preprocessing techniques and their impact on model performance.
 
 ### Key Findings
