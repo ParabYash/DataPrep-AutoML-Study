@@ -40,30 +40,34 @@ Decision Trees: Binary classification tasks.
 Neural Networks: Regression tasks.
 The datasets are processed to demonstrate the application of various preprocessing techniques and their impact on model performance.
 
-Key Findings
-Integrated workflows consistently outperform independent preprocessing and model building approaches.
-Manual workflows allow for greater optimization with complex algorithms like Neural Networks, especially for handling skewed target variables (e.g., using log transformations).
-AutoML provides a strong baseline for efficient preprocessing and modeling but may require manual adjustments for specific challenges.
-Technologies Used
-Programming Languages: Python
-Libraries: Scikit-learn, TensorFlow, Auto-sklearn, Pandas, NumPy, Matplotlib, Seaborn
-Evaluation Metrics: Accuracy, AUC, MSE, RMSE, R²
-Automation Tools: AutoML pipelines
-How to Use
-Clone the Repository:
-bash
-Copy
-Edit
-git clone https://github.com/YourUsername/Integrated-ML-Workflows.git
-Install Dependencies:
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Notebooks:
-Navigate to the Jupyter Notebooks in the repository to explore the code for preprocessing, modeling, and evaluation.
-Review the Documentation:
-Refer to the research paper and presentation included in the repository for detailed insights.
+### Key Findings
+- Integrated workflows consistently outperform independent preprocessing and model building approaches.
+- Manual workflows allow for greater optimization with complex algorithms like Neural Networks, especially for handling skewed target variables (e.g., using log transformations).
+- AutoML provides a strong baseline for efficient preprocessing and modeling but may require manual adjustments for specific challenges.
+
+### Technologies Used
+- Programming Languages: Python
+- Libraries: Scikit-learn, TensorFlow, Auto-sklearn, Pandas, NumPy, Matplotlib, Seaborn
+- Evaluation Metrics: Accuracy, AUC, MSE, RMSE, R²
+- Automation Tools: AutoML pipelines
+
+## How to Use
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/ParabYash/Integrated-ML-Workflows.git
+   ```
+
+2. **Install Required Packages**:
+   Ensure you have the necessary libraries installed, including PySpark:
+   ```bash
+   pip install r- requiremnts.txt
+   ```
+
+3. **Run the Notebooks**:
+   - Open the Jupyter notebooks (`Twitter_Sentiment_Analysis.ipynb` and `Data_Preprocessing_and_Model_Building.ipynb`) in your preferred environment (JupyterLab, Jupyter Notebook, or any other IDE).
+   - Execute the cells to replicate the data analysis, preprocessing, model building, and sentiment classification.
+
 Repository Contents
 /notebooks: Jupyter Notebooks for manual and AutoML workflows.
 /data: Sample datasets used in the analysis.
