@@ -12,6 +12,13 @@ The project emphasizes the significance of preprocessing strategies tailored to 
 ### Project Structure
 The repository is organized into the following sections:
 
+#### Data Description
+The datasets used in this project include synthetic and real-world data, tailored for:
+
+- Decision Trees: Binary classification tasks.
+- Neural Networks: Regression tasks.
+The datasets are processed to demonstrate the application of various preprocessing techniques and their impact on model performance.
+
 #### Data Preprocessing and Feature Engineering:
 
 - Handling missing values.
@@ -39,12 +46,6 @@ The repository is organized into the following sections:
 
 - Detailed documentation of the project methodologies, findings, and conclusions.
 
-#### Data Description
-The datasets used in this project include synthetic and real-world data, tailored for:
-
-- Decision Trees: Binary classification tasks.
-- Neural Networks: Regression tasks.
-The datasets are processed to demonstrate the application of various preprocessing techniques and their impact on model performance.
 
 ### Key Findings
 - Integrated workflows consistently outperform independent preprocessing and model building approaches.
