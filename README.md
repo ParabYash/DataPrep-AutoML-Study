@@ -12,7 +12,7 @@ The project emphasizes the significance of preprocessing strategies tailored to 
 ### Project Structure
 The repository is organized into the following sections:
 
-- Data Preprocessing and Feature Engineering:
+#### Data Preprocessing and Feature Engineering:
 
 - a. Handling missing values.
 - b. Encoding categorical variables.
