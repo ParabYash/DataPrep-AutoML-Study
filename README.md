@@ -4,20 +4,22 @@ This repository contains the implementation and analysis of the dissertation pro
 
 The project emphasizes the significance of preprocessing strategies tailored to specific machine learning algorithms and provides a comprehensive evaluation of their effectiveness.
 
-Project Objectives
-Evaluate whether integrating preprocessing with model building yields better results than handling them independently.
-Investigate the correlation between specific preprocessing techniques and the performance of Decision Trees (binary classification) and Neural Networks (regression).
-Compare manual preprocessing workflows with automated AutoML pipelines to assess strengths and limitations.
-Project Structure
+### Project Objectives
+- Evaluate whether integrating preprocessing with model building yields better results than handling them independently.
+- Investigate the correlation between specific preprocessing techniques and the performance of Decision Trees (binary classification) and Neural Networks (regression).
+- Compare manual preprocessing workflows with automated AutoML pipelines to assess strengths and limitations.
+
+### Project Structure
 The repository is organized into the following sections:
 
-Data Preprocessing and Feature Engineering:
+- Data Preprocessing and Feature Engineering:
 
-Handling missing values.
-Encoding categorical variables.
-Scaling numerical features.
-Creating and selecting features.
-Machine Learning Workflows:
+-- Handling missing values.
+-- Encoding categorical variables.
+-- Scaling numerical features.
+-- Creating and selecting features.
+
+- Machine Learning Workflows:
 
 Manual Workflow: Custom preprocessing and feature engineering for Decision Trees and Neural Networks.
 AutoML Workflow: Automated preprocessing and model building using AutoML pipelines.
@@ -73,8 +75,11 @@ Repository Contents
 /data: Sample datasets used in the analysis.
 /docs: Research paper and presentation summarizing the project.
 /results: Outputs from model evaluation and comparisons.
-Contact
-For any questions or suggestions, feel free to reach out:
 
-Email: yashparab05@gmail.com
-LinkedIn: Yash Parab
+
+## Contact Information
+
+For any questions or suggestions, feel free to contact me:
+
+- **Email**: yashparab05@gmail.com
+- **LinkedIn**: [Yash Parab](https://linkedin.com/in/yash-parab-9a5a6a209)
