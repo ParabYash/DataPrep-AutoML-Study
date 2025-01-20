@@ -19,7 +19,7 @@ The repository is organized into the following sections:
 - Scaling numerical features.
 - Creating and selecting features.
 
-  #### Machine Learning Workflows:
+#### Machine Learning Workflows:
 
 - Manual Workflow: Custom preprocessing and feature engineering for Decision Trees and Neural Networks.
 - AutoML Workflow: Automated preprocessing and model building using AutoML pipelines.
@@ -74,11 +74,10 @@ The datasets are processed to demonstrate the application of various preprocessi
    - Open the Jupyter notebooks (`Twitter_Sentiment_Analysis.ipynb` and `Data_Preprocessing_and_Model_Building.ipynb`) in your preferred environment (JupyterLab, Jupyter Notebook, or any other IDE).
    - Execute the cells to replicate the data analysis, preprocessing, model building, and sentiment classification.
 
-Repository Contents
-/notebooks: Jupyter Notebooks for manual and AutoML workflows.
-/data: Sample datasets used in the analysis.
-/docs: Research paper and presentation summarizing the project.
-/results: Outputs from model evaluation and comparisons.
+## Repository Contents
+- Jupyter Notebooks for manual and AutoML workflows.
+- Sample datasets used in the analysis.
+- Research paper
 
 
 ## Contact Information
