@@ -14,10 +14,10 @@ The repository is organized into the following sections:
 
 - Data Preprocessing and Feature Engineering:
 
--- Handling missing values.
--- Encoding categorical variables.
--- Scaling numerical features.
--- Creating and selecting features.
+a. Handling missing values.
+b. Encoding categorical variables.
+c. Scaling numerical features.
+d. Creating and selecting features.
 
 - Machine Learning Workflows:
 
