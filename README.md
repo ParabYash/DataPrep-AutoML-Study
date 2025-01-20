@@ -15,8 +15,8 @@ The repository is organized into the following sections:
 #### Data Description
 The datasets used in this project include synthetic and real-world data, tailored for:
 
-- Decision Trees: Binary classification tasks.
-- Neural Networks: Regression tasks.
+- Decision Trees: Binary classification tasks.(Campus Selection dataset)
+- Neural Networks: Regression tasks. (Housing Dataset)
 The datasets are processed to demonstrate the application of various preprocessing techniques and their impact on model performance.
 
 #### Data Preprocessing and Feature Engineering:
